@@ -25,10 +25,14 @@ Users can:
 ## 📂 File Structure
 
 my_first_web_page_project/
-├── index.html # Main HTML page
-├── banner.jpg # Page banner image
-├── team.jpg # Team section image
-├── styles.css # Custom styling (external CSS)
+├── .vscode/              # VS Code settings (optional)
+├── README.md             # Project documentation
+├── banner.jpg            # Banner image used on the page
+├── boxmodel.html         # Additional layout practice file
+├── index.html            # Main web page (job portal)
+├── styles.css            # External CSS styling
+└── team.jpg              # Image of the team used in the About section
+
 
 
 ## 🚀 Technologies Used
